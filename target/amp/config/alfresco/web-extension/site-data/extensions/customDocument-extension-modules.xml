@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+	<modules>
+		<module>
+			<id>Override Document Library</id>
+			<auto-deploy>true</auto-deploy>
+			<configurations>
+				<!-- <config evaluator="string-compare" condition="DocLibCustom"> 
+						<dependencies> 
+							<js src="components/documentlibrary/documentlist-view-detailed.js" /> 
+						</dependencies> 
+					</config> -->
+
+				<config evaluator="string-compare" condition="DocumentLibrary">
+
+					<aspects>
+						<visible>
+							<aspect name="my:aspect" />
+						</visible>
+					</aspects>
+					<types>
+						<type name="cm:folder">
+							<subtype name="my:folder" />
+						</type>
+						<type name="cm:content">
+							<subtype name="my:file" />
+						</type>
+					</types>
+					<create-content>
+						<content id="myFolder" label="Cap Dossier" itemid="my:folder" icon="capfolders">
+							<!--  <param name="function">onNewFolder</param>-->
+						</content>
+						<content id="myFile" label="File" itemid="my:file" icon="xml" />
+					</create-content>
+
+					<!-- ****** cet indicateur est appliqué pour tous les contenus crées -->
+					<indicators>
+						<indicator id="MONDOC" index="10" icon="capfolders-file-16.png">
+							<evaluator>custom.evaluator.capfolder</evaluator>
+						</indicator>
+					</indicators>
+
+					<metadata-templates>
+						<template id="customTemplate">
+							<!-- An evaluator that will return true if a node is of type 'acme:document', 
+								see repo-amp for content model... -->
+							<!-- <evaluator>alfresco.tutorials.evaluator.isAcmeDocument</evaluator> -->
+							<!-- les lines ci-dessous sont appliqueés ssi je définie l'evaluateur 
+								isAcmeDocument XXXXXX -->
+							<!-- <evaluator>evaluator.doclib.metadata.descrizioneTec</evaluator> -->
+							<!-- <evaluator>evaluator.doclib.custom.metadada.desc</evaluator> -->
+							<line index="10" id="date">{date}{size}</line>
+							<line index="11" id="author">{author}</line>
+							<line index="20" id="description" view="detailed">{description}</line>
+							<!-- <line index="20" id="descrizioneTec" evaluator="evaluator.doclib.metadata.descrizioneTec">{descrizioneTec}</line> -->
+							<!-- <line index="23" id="cutomDesc" evaluator="evaluator.doclib.custom.metadada.desc">{customDesc}</line> -->
+						</template>
+					</metadata-templates>
+				</config>
+
+				<config evaluator="model-type" condition="my:folder">
+					<forms>
+						<form>
+							<field-visibility>
+								<show id="cm:name"/> 
+								<show id="my:codeSBU" />
+								<show id="my:codePractise" />
+								<show id="my:codeMU" />
+								
+								<!-- <show id="my:codeSBU" force="true" /> 
+									 <show id="my:codePractise" force="true" />
+									 <show id="my:codeMU" force="true" /> -->
+							</field-visibility>
+							<!-- <create-form template="/org/alfresco/components/documentlibrary/forms/doclib-common.ftl" /> -->
+							<appearance>
+								<!-- <field id="cm:name" label="Nom"> <control> <control-param name="maxLength">255</control-param> 
+									</control> </field> -->
+								<!-- <field id="my:codeSBU" label="Code S.B.U."> <control template="/org/alfresco/components/form/controls/textfield.ftl" 
+									/> </field> <field id="my:codePractise" label="Code Practise"> <control template="/org/alfresco/components/form/controls/textfield.ftl" 
+									/> </field> <field id="my:codeMU" label="Code M.U."> <control template="/org/alfresco/components/form/controls/textfield.ftl" 
+									/> </field> -->
+
+								<field id="my:codeSBU" label="Code S.B.U.">
+									<control template="/org/alfresco/components/form/controls/textfield.ftl" />
+								</field>
+								<field id="my:codePractise" label="Code Practise">
+									<control template="/org/alfresco/components/form/controls/textfield.ftl" />
+								</field>
+								<field id="my:codeMU" label="Code M.U.">
+									<control template="/org/alfresco/components/form/controls/textfield.ftl" />
+								</field>
+							</appearance>
+						</form>
+					</forms>
+				</config>
+
+				<!--<config evaluator="string-compare" condition="cm:folder icons">
+					<icons>
+						<icon name="space-icon-custom" path="/i" />
+					</icons>
+				</config>-->
+			</configurations>
+		</module>
+	</modules>
+</extension>

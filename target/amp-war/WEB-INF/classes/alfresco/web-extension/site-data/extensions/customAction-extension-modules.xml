@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+	<modules>
+		<module>
+			<id>Override Document Library Actions</id>
+			<auto-deploy>true</auto-deploy>
+			<configurations>
+				 <config evaluator="string-compare" condition="DocLibActions">
+					<actions>
+						 <action id="document-tagging" type="javascript" icon="tag" label="actions.document.tagging">
+							<param name="function">onActionFormDialog</param>	
+							<param name="itemKind">action</param>
+							<param name="itemId">doc-tagging</param>
+							<param name="mode">create</param>
+							<param name="destination">{node.nodeRef}</param>
+							<param name="successMessage">message.tagging.success</param>
+							<param name="failureMessage">message.tagging.failure</param>
+						</action>
+					 </actions>
+					<actionGroups>
+						<actionGroup id="document-browse">
+							<action index="451" id="document-tagging" />
+						</actionGroup>
+						<actionGroup id="document-details">
+							<action index="451" id="document-tagging" />
+						</actionGroup>
+						<actionGroup id="folder-browse">
+							<action index="451" id="document-tagging" />	
+						</actionGroup>
+						<actionGroup id="folder-details">
+							<action index="451" id="document-tagging" />
+						</actionGroup>
+					</actionGroups> 
+				</config>
+
+  
+		    <config evaluator="string-compare" condition="doc-tagging">
+					<forms>
+						<form>
+							<field-visibility>
+								<show id="tags" />
+							</field-visibility>
+							<appearance>
+								<field id="tags" label-id="doc-tagging.field.tagname">
+									<control template="/org/alfresco/components/form/controls/textarea.ftl" />
+								</field>
+							</appearance>
+						</form>
+					</forms>
+				</config>	
+				
+			</configurations>
+		</module>
+	</modules>
+</extension>

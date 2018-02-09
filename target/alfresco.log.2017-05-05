@@ -1,0 +1,934 @@
+2017-05-05 09:30:24,259 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:30:24,267 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:30:24,267 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:30:24,385 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-1] Initialised Spring Surf Container Web Script Container (in 11439.163ms)
+2017-05-05 09:35:02,111 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 09:35:02,114 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 09:35:03,245 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:35:03,252 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:35:03,254 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:35:03,256 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:35:11,856 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:35:11,856 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:35:11,856 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:35:11,968 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8682.7ms)
+2017-05-05 09:35:11,992 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:35:11,996 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:35:12,263 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 09:36:56,177 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-4] Successfully retrieved license information from Alfresco.
+2017-05-05 09:37:19,477 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-8] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-05-05 09:37:47,752 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-10] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 09:39:22,184 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 09:39:22,188 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 09:39:23,276 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:39:23,288 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:39:23,289 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:39:23,291 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:39:31,750 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:39:31,750 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:39:31,750 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:39:31,954 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8634.143ms)
+2017-05-05 09:39:31,973 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:39:31,975 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:39:32,192 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 09:39:36,681 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 09:40:01,629 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 09:40:31,776 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:40:31,777 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:40:31,777 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:40:31,893 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-7] Initialised Spring Surf Container Web Script Container (in 8377.066ms)
+2017-05-05 09:41:42,033 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 09:41:42,035 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 09:41:43,128 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:41:43,134 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:41:43,136 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:41:43,138 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:41:50,594 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:41:50,594 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:41:50,594 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:41:50,737 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7573.8076ms)
+2017-05-05 09:41:50,742 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:41:50,743 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:41:50,929 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 09:42:23,393 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 09:45:49,284 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-7] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 09:52:01,592 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:52:01,592 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:52:01,592 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:52:01,691 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-8] Initialised Spring Surf Container Web Script Container (in 8161.235ms)
+2017-05-05 09:54:37,796 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 09:54:37,799 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 09:54:38,846 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:54:38,852 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:54:38,853 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:54:38,855 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:54:46,850 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:54:46,850 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:54:46,850 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:54:46,979 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8096.64ms)
+2017-05-05 09:54:46,985 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:54:46,986 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:54:47,188 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 09:54:56,692 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 09:55:21,134 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 09:56:14,649 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:56:14,649 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:56:14,649 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:56:14,794 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-7] Initialised Spring Surf Container Web Script Container (in 7939.809ms)
+2017-05-05 09:57:13,856 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 09:57:13,859 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 09:57:14,992 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:57:14,999 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:57:15,001 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:57:15,002 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:57:22,075 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:57:22,075 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:57:22,075 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:57:22,331 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7294.5894ms)
+2017-05-05 09:57:22,348 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 09:57:22,351 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 09:57:22,666 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 09:58:56,620 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-05-05 09:59:12,262 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 09:59:12,263 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 09:59:12,263 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 09:59:12,377 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 9720.919ms)
+2017-05-05 10:00:21,956 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:00:21,958 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:00:22,949 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:00:22,954 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:00:22,955 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:00:22,956 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:00:29,995 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:00:29,995 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:00:29,995 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:00:30,142 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7162.1943ms)
+2017-05-05 10:00:30,147 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:00:30,148 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:00:30,349 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:05:28,866 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:07:25,977 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-7] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 10:09:33,552 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:09:33,553 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:09:33,553 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:09:33,678 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-8] Initialised Spring Surf Container Web Script Container (in 7519.725ms)
+2017-05-05 10:09:44,921 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:09:44,921 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:09:44,921 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:09:45,036 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 7443.751ms)
+2017-05-05 10:11:25,078 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:11:25,078 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:11:25,078 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:11:25,129 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-8] Initialised Spring Surf Container Web Script Container (in 6908.6514ms)
+2017-05-05 10:13:03,523 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:13:03,526 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:13:04,635 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:13:04,643 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:13:04,644 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:13:04,646 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:13:12,403 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:13:12,403 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:13:12,403 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:13:12,568 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7891.1543ms)
+2017-05-05 10:13:12,571 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:13:12,572 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:13:12,744 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:14:36,464 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:15:12,445 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 10:17:48,178 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:17:48,179 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:17:48,179 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:17:48,305 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-7] Initialised Spring Surf Container Web Script Container (in 8056.827ms)
+2017-05-05 10:17:58,740 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:17:58,741 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:17:58,741 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:17:58,838 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-10] Initialised Spring Surf Container Web Script Container (in 7263.5312ms)
+2017-05-05 10:19:04,875 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:19:04,878 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:19:06,194 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:19:06,202 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:19:06,203 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:19:06,204 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:19:14,652 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:19:14,653 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:19:14,653 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:19:14,787 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8549.381ms)
+2017-05-05 10:19:14,792 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:19:14,794 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:19:15,013 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:19:38,529 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:20:02,137 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-7] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 10:21:24,982 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:21:24,983 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:21:24,983 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:21:25,136 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 7881.9937ms)
+2017-05-05 10:21:42,292 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-5] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:21:42,293 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-5] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:21:42,293 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-5] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:21:42,377 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-5] Initialised Spring Surf Container Web Script Container (in 7068.18ms)
+2017-05-05 10:21:54,465 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:21:54,465 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:21:54,465 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:21:54,530 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-2] Initialised Spring Surf Container Web Script Container (in 7100.318ms)
+2017-05-05 10:22:03,003 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:22:03,004 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:22:03,004 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:22:03,072 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-10] Initialised Spring Surf Container Web Script Container (in 7217.819ms)
+2017-05-05 10:22:16,139 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-4] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:22:16,139 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-4] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:22:16,139 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-4] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:22:16,209 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-4] Initialised Spring Surf Container Web Script Container (in 7958.7144ms)
+2017-05-05 10:23:14,368 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:23:14,370 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:23:15,762 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:23:15,768 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:23:15,769 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:23:15,770 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:23:23,807 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:23:23,808 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:23:23,808 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:23:23,971 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8169.7236ms)
+2017-05-05 10:23:23,977 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:23:23,978 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:23:24,182 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:25:04,118 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:25:29,194 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 10:25:59,640 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:25:59,641 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:25:59,641 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:25:59,762 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-7] Initialised Spring Surf Container Web Script Container (in 8018.179ms)
+2017-05-05 10:28:00,789 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:28:00,789 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:28:00,789 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:28:00,878 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-1] Initialised Spring Surf Container Web Script Container (in 7536.123ms)
+2017-05-05 10:28:10,719 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:28:10,719 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:28:10,719 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:28:10,786 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-2] Initialised Spring Surf Container Web Script Container (in 7518.157ms)
+2017-05-05 10:30:01,352 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-5] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:30:01,353 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-5] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:30:01,353 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-5] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:30:01,438 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-5] Initialised Spring Surf Container Web Script Container (in 7652.909ms)
+2017-05-05 10:30:10,740 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:30:10,740 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:30:10,740 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:30:10,798 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-3] Initialised Spring Surf Container Web Script Container (in 7516.9546ms)
+2017-05-05 10:30:19,073 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:30:19,073 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:30:19,073 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:30:19,146 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-7] Initialised Spring Surf Container Web Script Container (in 7818.8853ms)
+2017-05-05 10:30:28,520 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:30:28,520 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:30:28,520 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-7] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:30:28,589 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-7] Initialised Spring Surf Container Web Script Container (in 7071.89ms)
+2017-05-05 10:31:31,049 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:31:31,053 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:31:32,401 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:31:32,423 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:31:32,425 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:31:32,429 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:31:41,809 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:31:41,810 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:31:41,810 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:31:42,015 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 9543.102ms)
+2017-05-05 10:31:42,020 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:31:42,021 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:31:42,359 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:31:48,011 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:32:25,356 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 10:38:45,159 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:38:45,160 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:38:45,160 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:38:45,307 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 8543.318ms)
+2017-05-05 10:39:50,292 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:39:50,301 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:39:52,126 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:39:52,142 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:39:52,144 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:39:52,145 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:40:00,894 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:40:00,894 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:40:00,894 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:40:01,052 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8857.831ms)
+2017-05-05 10:40:01,056 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:40:01,056 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:40:01,391 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:40:26,909 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-05-05 10:40:39,912 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:40:39,913 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:40:39,913 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:40:40,012 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 7976.104ms)
+2017-05-05 10:41:39,546 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:41:39,550 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:41:40,894 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:41:40,901 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:41:40,903 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:41:40,904 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:46:39,499 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:46:39,502 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:46:40,530 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:46:40,539 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:46:40,541 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:46:40,542 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:46:48,513 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:46:48,513 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:46:48,513 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:46:48,673 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8103.567ms)
+2017-05-05 10:46:48,677 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:46:48,679 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:46:48,906 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:47:39,997 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:48:09,158 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 10:49:47,119 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:49:47,122 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:49:48,246 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:49:48,253 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:49:48,254 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:49:48,256 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:49:55,455 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:49:55,455 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:49:55,455 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:49:55,668 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7385.268ms)
+2017-05-05 10:49:55,673 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:49:55,674 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:49:55,929 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:50:01,222 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:50:27,090 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 10:53:59,146 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 10:53:59,150 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 10:54:00,281 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:54:00,286 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:54:00,287 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:54:00,289 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:54:09,214 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 10:54:09,214 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 10:54:09,214 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 10:54:09,433 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 9109.632ms)
+2017-05-05 10:54:09,437 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 10:54:09,440 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 10:54:09,685 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 10:54:22,361 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 10:55:14,384 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 11:08:46,029 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 11:08:46,031 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 11:08:47,159 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:08:47,165 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:08:47,166 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:08:47,168 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:08:54,926 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:08:54,927 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:08:54,927 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:08:55,184 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7983.3193ms)
+2017-05-05 11:08:55,199 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:08:55,202 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:08:55,589 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 11:10:15,803 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 11:11:20,195 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-10] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 11:12:23,892 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:12:23,893 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:12:23,893 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:12:24,018 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-3] Initialised Spring Surf Container Web Script Container (in 8180.1045ms)
+2017-05-05 11:12:34,729 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:12:34,729 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:12:34,729 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:12:34,801 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-10] Initialised Spring Surf Container Web Script Container (in 7496.7827ms)
+2017-05-05 11:13:24,707 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 11:13:24,709 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 11:13:25,767 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:13:25,771 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:13:25,772 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:13:25,773 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:13:33,316 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:13:33,317 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:13:33,317 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:13:33,456 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7645.352ms)
+2017-05-05 11:13:33,459 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:13:33,461 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:13:33,665 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 11:15:54,346 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 11:16:25,377 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-8] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 11:17:49,257 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-9] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:17:49,257 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-9] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:17:49,258 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-9] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:17:49,412 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-9] Initialised Spring Surf Container Web Script Container (in 8156.8506ms)
+2017-05-05 11:18:41,334 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 11:18:41,337 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 11:18:42,262 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:18:42,267 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:18:42,268 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:18:42,270 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:18:49,535 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:18:49,535 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:18:49,535 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:18:49,670 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7373.827ms)
+2017-05-05 11:18:49,676 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:18:49,677 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:18:49,890 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 11:33:13,994 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 11:33:14,000 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 11:33:15,262 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:33:15,272 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:33:15,274 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:33:15,275 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:33:23,409 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:33:23,409 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:33:23,409 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:33:23,597 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8283.754ms)
+2017-05-05 11:33:23,601 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:33:23,602 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:33:23,837 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 11:33:44,814 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-4] Successfully retrieved license information from Alfresco.
+2017-05-05 11:34:03,578 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-7] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-05-05 11:34:31,378 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 11:35:48,613 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:35:48,615 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:35:48,615 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:35:48,708 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-8] Initialised Spring Surf Container Web Script Container (in 9027.317ms)
+2017-05-05 11:48:06,691 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 11:48:06,692 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 11:48:07,650 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:48:07,657 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:48:07,658 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:48:07,660 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:48:14,876 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:48:14,876 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:48:14,877 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:48:15,033 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7339.6196ms)
+2017-05-05 11:48:15,039 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 11:48:15,040 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 11:48:15,260 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 11:48:23,424 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 11:48:49,274 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-8] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 11:54:33,332 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:54:33,332 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:54:33,332 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:54:33,456 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-8] Initialised Spring Surf Container Web Script Container (in 9047.163ms)
+2017-05-05 11:54:41,373 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 11:54:41,373 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 11:54:41,374 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 11:54:41,478 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-3] Initialised Spring Surf Container Web Script Container (in 7458.95ms)
+2017-05-05 12:05:04,389 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-6] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-05-05 12:08:11,847 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 12:08:11,847 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 12:08:11,847 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-10] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 12:08:11,928 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-10] Initialised Spring Surf Container Web Script Container (in 8055.311ms)
+2017-05-05 12:09:24,631 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 12:09:24,634 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 12:09:26,004 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 12:09:26,009 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 12:09:26,011 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 12:09:26,012 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 12:09:37,642 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 12:09:37,643 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 12:09:37,643 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 12:09:37,820 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 11769.782ms)
+2017-05-05 12:09:37,826 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 12:09:37,827 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 12:09:38,064 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 12:14:23,471 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-05-05 12:14:37,567 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 12:14:37,568 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 12:14:37,569 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 12:14:37,733 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 8737.11ms)
+2017-05-05 12:14:45,827 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 12:14:45,827 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 12:14:45,827 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-3] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 12:14:45,950 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-3] Initialised Spring Surf Container Web Script Container (in 7709.729ms)
+2017-05-05 12:26:08,254 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 12:26:08,257 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 12:26:09,747 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 12:26:09,754 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 12:26:09,755 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 12:26:09,757 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 12:26:18,214 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 12:26:18,215 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 12:26:18,215 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 12:26:18,355 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8560.609ms)
+2017-05-05 12:26:18,359 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 12:26:18,360 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 12:26:18,621 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 12:26:20,834 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-3] Successfully retrieved license information from Alfresco.
+2017-05-05 12:30:14,694 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-5] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-05-05 12:30:41,930 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-8] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 13:58:09,362 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 13:58:09,365 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 13:58:10,747 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 13:58:10,766 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 13:58:10,771 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 13:58:10,780 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 13:58:21,004 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 13:58:21,005 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 13:58:21,005 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 13:58:21,165 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 10335.992ms)
+2017-05-05 13:58:21,170 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 13:58:21,171 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 13:58:21,451 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 14:02:11,906 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-05-05 14:02:48,673 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 14:02:54,817 ERROR [org.alfresco.web.site] [http-bio-8081-exec-5] javax.servlet.ServletException: Could not resolve view with name 'site/siteweb/{pageUrl}' in servlet with name 'Spring Surf Dispatcher Servlet'
+2017-05-05 14:07:28,709 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 14:07:28,716 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 14:07:30,290 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 14:07:30,299 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 14:07:30,300 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 14:07:30,302 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 14:07:38,507 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 14:07:38,507 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 14:07:38,507 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 14:07:38,679 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8332.1045ms)
+2017-05-05 14:07:38,684 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 14:07:38,685 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 14:07:38,906 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 14:12:28,088 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 14:12:43,446 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-8] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-05-05 14:15:19,967 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-7] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 14:18:09,239 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 14:18:09,241 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 14:18:10,425 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 14:18:10,432 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 14:18:10,434 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 14:18:10,436 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 14:18:18,731 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 14:18:18,731 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 14:18:18,731 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 14:18:18,867 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8394.927ms)
+2017-05-05 14:18:18,871 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 14:18:18,872 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 14:18:19,076 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 14:18:37,177 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-05-05 14:45:34,083 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-6] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-05-05 15:03:24,353 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 15:05:11,549 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 15:05:11,561 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 15:05:13,009 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:05:13,016 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:05:13,017 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:05:13,018 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:05:22,514 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:05:22,514 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:05:22,514 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:05:22,725 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 9680.387ms)
+2017-05-05 15:05:22,729 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:05:22,731 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:05:23,117 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 15:06:21,827 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 15:06:55,928 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-10] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 15:08:24,899 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 15:08:24,902 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 15:08:26,309 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:08:26,317 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:08:26,317 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:08:26,318 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:08:33,709 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:08:33,709 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:08:33,709 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:08:33,878 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7534.928ms)
+2017-05-05 15:08:33,882 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:08:33,883 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:08:34,066 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 15:09:08,317 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 15:09:40,544 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-2] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 15:09:45,687 ERROR [org.alfresco.web.site] [http-bio-8081-exec-4] javax.servlet.ServletException: Could not resolve view with name 'site/siteweb/{pageUrl}' in servlet with name 'Spring Surf Dispatcher Servlet'
+2017-05-05 15:11:05,969 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 15:11:05,972 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 15:11:07,207 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:11:07,215 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:11:07,216 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:11:07,218 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:11:15,506 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:11:15,506 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:11:15,506 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:11:15,673 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8421.236ms)
+2017-05-05 15:11:15,678 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:11:15,679 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:11:15,905 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 15:11:42,675 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 15:11:42,864 ERROR [org.alfresco.web.site] [http-bio-8081-exec-1] javax.servlet.ServletException: Could not resolve view with name 'site/siteweb/{pageUrl}' in servlet with name 'Spring Surf Dispatcher Servlet'
+2017-05-05 15:12:30,147 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-7] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 15:12:34,481 ERROR [org.alfresco.web.site] [http-bio-8081-exec-1] javax.servlet.ServletException: Could not resolve view with name 'site/siteweb/nodeRef=workspace://SpacesStore/719e41b9-2490-494a-afb2-fa52b4d390d0' in servlet with name 'Spring Surf Dispatcher Servlet'
+2017-05-05 15:13:38,376 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 15:13:38,378 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 15:13:39,756 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:13:39,763 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:13:39,764 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:13:39,765 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:13:46,770 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:13:46,770 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:13:46,770 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:13:46,912 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7116.2544ms)
+2017-05-05 15:13:46,916 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:13:46,917 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:13:47,182 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 15:16:36,275 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-05-05 15:16:50,240 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:16:50,240 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:16:50,241 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:16:50,342 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 8972.433ms)
+2017-05-05 15:17:48,708 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 15:17:48,710 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 15:17:49,803 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:17:49,809 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:17:49,811 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:17:49,812 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:17:56,938 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:17:56,938 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:17:56,938 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:17:57,058 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7214.176ms)
+2017-05-05 15:17:57,064 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:17:57,065 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:17:57,293 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 15:18:39,692 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 15:19:16,883 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-9] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-05-05 15:19:43,513 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-4] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 15:19:47,863 ERROR [org.alfresco.web.site] [http-bio-8081-exec-10] javax.servlet.ServletException: Could not resolve view with name 'site/siteweb/{pageUrl}' in servlet with name 'Spring Surf Dispatcher Servlet'
+2017-05-05 15:20:58,189 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 15:20:58,193 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 15:20:59,427 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:20:59,434 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:20:59,437 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:20:59,438 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:21:09,037 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:21:09,038 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:21:09,038 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:21:09,174 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 9710.492ms)
+2017-05-05 15:21:09,180 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:21:09,181 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:21:09,379 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 15:22:51,569 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-05-05 15:23:06,559 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:23:06,560 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:23:06,560 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:23:06,897 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 9783.47ms)
+2017-05-05 15:23:07,132 ERROR [org.alfresco.web.site] [http-bio-8081-exec-9] javax.servlet.ServletException: Could not resolve view with name 'site/siteweb/documentlibrary' in servlet with name 'Spring Surf Dispatcher Servlet'
+2017-05-05 15:23:07,223 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] [http-bio-8081-exec-7] Exception from executeScript - redirecting to status template error: 04050001 Failed to execute script 'classpath*:alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js': 04050000 TypeError: Impossible de lire la propriété "childrenMap" de null (file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js#51)
+org.springframework.extensions.webscripts.WebScriptException: 04050001 Failed to execute script 'classpath*:alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js': 04050000 TypeError: Impossible de lire la propriété "childrenMap" de null (file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js#51)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScript(JSScriptProcessor.java:217)
+	at org.springframework.extensions.webscripts.AbstractWebScript.executeScript(AbstractWebScript.java:1376)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:86)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:239)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:378)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:264)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1216)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1001)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:945)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:867)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:953)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:829)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:412)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.tuckey.web.filters.urlrewrite.NormalRewrittenUrl.doRewrite(NormalRewrittenUrl.java:213)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:171)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.alfresco.web.site.servlet.SecurityHeadersFilter.doFilter(SecurityHeadersFilter.java:182)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.alfresco.web.site.servlet.CSRFFilter.doFilter(CSRFFilter.java:322)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:447)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.extensions.webscripts.WebScriptException: 04050000 TypeError: Impossible de lire la propriété "childrenMap" de null (file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js#51)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScriptImpl(JSScriptProcessor.java:343)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScript(JSScriptProcessor.java:209)
+	... 56 more
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Impossible de lire la propriété "childrenMap" de null (file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js#51)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.undefReadError(ScriptRuntime.java:3725)
+	at org.mozilla.javascript.ScriptRuntime.getObjectProp(ScriptRuntime.java:1483)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1._c_calculateRemoteDataURL_3(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js:51)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1.call(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:85)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1._c_surfDoclist_main_34(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js:1147)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1.call(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1._c_script_0(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js:1177)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1.call(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1.call(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js)
+	at org.mozilla.javascript.gen.file__C__Users_wsallem_workspace_internship_share3_target_amp_war_WEB_INF_classes_alfresco_site_webscripts_org_alfresco_components_documentlibrary_data_surf_doclist_get_js_1.exec(file:/C:/Users/wsallem/workspace/internship-share3/target/amp-war/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/documentlibrary/data/surf-doclist.get.js)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScriptImpl(JSScriptProcessor.java:333)
+	... 57 more
+2017-05-05 15:24:21,669 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 15:24:21,671 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 15:24:22,761 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:24:22,767 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:24:22,769 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:24:22,770 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:24:30,151 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 15:24:30,151 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 15:24:30,151 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 15:24:30,361 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7562.8477ms)
+2017-05-05 15:24:30,370 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 15:24:30,372 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 15:24:30,654 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 15:36:48,017 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 15:47:06,094 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 16:45:48,267 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 16:45:48,294 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 16:45:49,597 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:45:49,604 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:45:49,605 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:45:49,607 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:45:59,602 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 16:45:59,603 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 16:45:59,603 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 16:45:59,739 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 10098.642ms)
+2017-05-05 16:45:59,744 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:45:59,745 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:45:59,982 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 16:48:21,103 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 16:49:01,136 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-3] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 16:49:06,141 ERROR [org.alfresco.web.scripts.forms.FormUIGet] [http-bio-8081-exec-3] org.alfresco.repo.forms.FormNotFoundException: 04050002 A form could not be found for item: [action]doc-content
+2017-05-05 16:50:32,436 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 16:50:32,438 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 16:50:33,653 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:50:33,662 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:50:33,663 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:50:33,665 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:50:41,509 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 16:50:41,509 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 16:50:41,509 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 16:50:41,654 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7949.9214ms)
+2017-05-05 16:50:41,659 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:50:41,660 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:50:41,857 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 16:50:49,629 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 16:51:20,328 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 16:51:24,672 ERROR [org.alfresco.web.scripts.forms.FormUIGet] [http-bio-8081-exec-10] org.alfresco.repo.forms.FormNotFoundException: 04050003 A form could not be found for item: [action]doc-content
+2017-05-05 16:52:38,400 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 16:52:38,403 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 16:52:39,486 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:52:39,493 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:52:39,494 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:52:39,495 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:52:47,063 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 16:52:47,064 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 16:52:47,064 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 16:52:47,192 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7669.068ms)
+2017-05-05 16:52:47,197 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:52:47,198 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:52:47,398 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 16:52:56,703 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 16:53:31,061 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 16:53:35,112 ERROR [org.alfresco.web.scripts.forms.FormUIGet] [http-bio-8081-exec-10] org.alfresco.repo.forms.FormNotFoundException: 04050004 A form could not be found for item: [action]doc-content
+2017-05-05 16:54:36,659 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 16:54:36,661 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 16:54:37,795 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:54:37,801 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:54:37,802 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:54:37,804 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:54:45,328 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 16:54:45,328 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 16:54:45,328 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 16:54:45,483 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7647.2793ms)
+2017-05-05 16:54:45,491 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:54:45,492 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:54:45,672 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 16:55:26,498 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 16:55:52,997 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 16:56:08,186 ERROR [org.alfresco.web.scripts.forms.FormUIGet] [http-bio-8081-exec-10] org.alfresco.repo.forms.FormNotFoundException: 04050005 A form could not be found for item: [action]doc-content
+2017-05-05 16:57:51,356 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 16:57:51,358 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 16:57:52,495 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:57:52,500 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:57:52,502 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:57:52,503 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:58:00,171 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 16:58:00,171 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 16:58:00,172 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 16:58:00,313 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7777.1504ms)
+2017-05-05 16:58:00,318 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 16:58:00,319 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 16:58:00,539 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 16:58:12,256 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 16:58:57,688 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 17:00:07,812 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 17:00:07,813 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 17:00:07,813 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-6] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 17:00:07,935 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-6] Initialised Spring Surf Container Web Script Container (in 8881.159ms)
+2017-05-05 17:00:40,013 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 17:00:40,013 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 17:00:40,013 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-2] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 17:00:40,114 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-2] Initialised Spring Surf Container Web Script Container (in 7675.072ms)
+2017-05-05 17:01:42,924 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 17:01:42,927 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 17:01:43,976 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:01:43,981 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:01:43,983 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:01:43,984 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:01:52,343 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 17:01:52,343 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 17:01:52,343 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 17:01:52,604 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8586.929ms)
+2017-05-05 17:01:52,610 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:01:52,611 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:01:52,809 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 17:02:03,154 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 17:02:30,701 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-10] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 17:04:46,243 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 17:04:46,246 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 17:04:47,411 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:04:47,417 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:04:47,419 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:04:47,420 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:04:55,943 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 17:04:55,943 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 17:04:55,943 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 17:04:56,077 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8630.102ms)
+2017-05-05 17:04:56,082 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:04:56,083 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:04:56,318 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 17:05:10,856 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 17:05:39,711 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 17:07:38,347 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 17:07:38,350 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 17:07:39,410 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:07:39,416 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:07:39,418 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:07:39,419 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:07:46,924 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 17:07:46,925 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 17:07:46,925 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 17:07:47,063 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 7620.393ms)
+2017-05-05 17:07:47,067 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:07:47,068 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:07:47,266 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 17:07:52,133 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 17:08:26,666 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-8] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 17:10:07,933 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-05-05 17:10:07,939 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+internship-share3 AMP project, 1.0-SNAPSHOT, Manages the lifecycle of the internship-share3 AMP (Alfresco Module Package)
+
+2017-05-05 17:10:09,086 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:10:09,094 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:10:09,096 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:10:09,097 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:10:17,083 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 17:10:17,083 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 17:10:17,083 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 17:10:17,251 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Spring Surf Container Web Script Container (in 8130.142ms)
+2017-05-05 17:10:17,259 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-05-05 17:10:17,261 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-05-05 17:10:17,507 WARN  [org.apache.myfaces.shared_impl.util.LocaleUtils] [localhost-startStop-1] Locale name in faces-config.xml null or empty, setting locale to default locale : fr_FR
+2017-05-05 17:10:24,389 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-05-05 17:10:49,957 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-6] Successfully retrieved Data Dictionary from Alfresco.
+2017-05-05 17:12:05,957 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 386 Web Scripts (+0 failed), 404 URLs
+2017-05-05 17:12:05,958 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 8 Package Description Documents (+0 failed) 
+2017-05-05 17:12:05,958 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8081-exec-8] Registered 0 Schema Description Documents (+0 failed) 
+2017-05-05 17:12:06,053 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8081-exec-8] Initialised Spring Surf Container Web Script Container (in 8267.689ms)

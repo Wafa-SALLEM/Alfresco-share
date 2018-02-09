@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<webscript>
+    <shortname>Model test</shortname>
+    <description>Creates content of a custom type</description>
+    <family>Share</family>
+    <url>/components/dashboard/modeltest?nom={nameArgument}</url>
+    <authentication>admin</authentication>
+</webscript>

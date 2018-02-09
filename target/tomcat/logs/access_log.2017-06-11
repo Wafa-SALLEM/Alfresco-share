@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [11/Jun/2017:12:33:19 +0200] "GET /share/res/js/aikau/1.0.39.5/alfresco/css/images/wait.gif HTTP/1.1" 200 1100 http-bio-8081-exec-4 707
+0:0:0:0:0:0:0:1 - - [11/Jun/2017:12:33:20 +0200] "GET /share/service/header/sites-menu/recent/site/site4 HTTP/1.1" 200 79 http-bio-8081-exec-9 1852
+0:0:0:0:0:0:0:1 - - [11/Jun/2017:12:33:20 +0200] "GET /share/res/js/aikau/1.0.39.5/alfresco/menus/css/images/transparent-20.png HTTP/1.1" 200 173 http-bio-8081-exec-1 6
+0:0:0:0:0:0:0:1 - - [11/Jun/2017:12:33:20 +0200] "GET /share/res/js/aikau/1.0.39.5/alfresco/css/images/recent-site.png HTTP/1.1" 200 447 http-bio-8081-exec-9 14
+0:0:0:0:0:0:0:1 - - [11/Jun/2017:12:33:20 +0200] "GET /share/res/js/aikau/1.0.39.5/alfresco/css/images/site-finder.png HTTP/1.1" 200 333 http-bio-8081-exec-7 22
+0:0:0:0:0:0:0:1 - - [11/Jun/2017:12:33:20 +0200] "GET /share/res/js/aikau/1.0.39.5/alfresco/css/images/create-site.png HTTP/1.1" 200 423 http-bio-8081-exec-5 16
+0:0:0:0:0:0:0:1 - - [11/Jun/2017:12:33:20 +0200] "GET /share/res/js/aikau/1.0.39.5/alfresco/css/images/favourite-site.png HTTP/1.1" 200 322 http-bio-8081-exec-8 20

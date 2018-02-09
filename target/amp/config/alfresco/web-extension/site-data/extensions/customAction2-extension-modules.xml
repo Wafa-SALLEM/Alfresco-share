@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+	<modules>
+		<module>
+			<id>Action2</id>
+			<auto-deploy>true</auto-deploy>
+			<configurations>
+				 <config evaluator="string-compare" condition="DocLibActions">
+					<actions>
+						 <action id="my-action" type="javascript" icon="content" label="actions.document.add.content">
+							<param name="function">onActionFormDialog</param>	
+							<param name="itemKind">action</param>
+							<param name="itemId">add-content</param>
+							<!--  <param name="page">documentlibrary?nodeRef={node.nodeRef}</param>-->
+							<param name="mode">create</param>
+							<param name="destination">{node.nodeRef}</param>
+							<param name="successMessage">message.addContent.success</param>
+							<param name="failureMessage">message.addContent.failure</param>
+							<evaluator>custom.evaluator.capfolder</evaluator>
+						</action>
+						</actions>
+					<actionGroups>
+						<actionGroup id="document-browse">
+							 <action index="444" id="my-action"/>
+						</actionGroup>
+						<actionGroup id="document-details">
+							<action index="444" id="my-action"/>
+						</actionGroup>
+						<actionGroup id="folder-browse">
+							<action index="444" id="my-action"/>
+						</actionGroup>
+						<actionGroup id="folder-details">
+							<action index="444" id="my-action"/>
+						</actionGroup>
+					</actionGroups> 
+				</config>
+
+  
+	  			<config evaluator="string-compare" condition="add-content">
+					  <forms>
+						<form>
+							 <field-visibility>
+								<show id="cm:name" />
+							</field-visibility>
+							<appearance>
+								<field id="cm:name" label-id="Wafa"/>
+								<!--	<control template="/org/alfresco/components/form/controls/textfield.ftl" />
+								</field>  -->
+							</appearance>
+						</form>
+					</forms>
+				</config>
+				
+			</configurations>
+		</module>
+	</modules>
+</extension>

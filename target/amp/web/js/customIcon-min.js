@@ -1,0 +1,1 @@
+function DL_renderCellThumbnail(b,a,c,d){alert("bonjour")};

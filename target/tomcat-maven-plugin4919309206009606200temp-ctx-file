@@ -1,0 +1,5 @@
+<Context path="/share" reloadable="false" backgroundProcessorDelay="-1">
+  <Resources className="org.apache.naming.resources.VirtualDirContext" extraResourcePaths="/=C:\\Users\\wsallem\\workspace\\internship-share3\\target/amp/web,C:\\Users\\wsallem\\workspace\\internship-share3\\target/amp-war"/>
+  <Loader searchVirtualFirst="true" className="org.apache.catalina.loader.VirtualWebappLoader" virtualClasspath="C:\\Users\\wsallem\\workspace\\internship-share3\\target\\classes;C:\\Users\\wsallem\\workspace\\internship-share3\\target/amp/config;C:\\Users\\wsallem\\workspace\\internship-share3\\target\\test-classes"/>
+  <JarScanner scanAllDirectories="true"/>
+</Context>

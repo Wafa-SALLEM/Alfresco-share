@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audit xmlns="http://www.alfresco.org/repo/audit/model/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.alfresco.org/repo/audit/model/3.2 alfresco-audit-3.2.xsd">
+	<DataExtractors>
+		<DataExtractor name="simpleValue" registeredName="auditModel.extractor.simpleValue" />
+		
+		<DataExtractor name="nodeName" registeredName="auditModel.extractor.nodeName" />
+		<DataExtractor name="nodeType" registeredName="auditModel.extractor.nodeType" />
+		
+		<DataExtractor name="siteName" class="com.cap.SiteNameDataExtractor" />
+	</DataExtractors>
+	
+	<DataGenerators>
+		<DataGenerator name="personFullName" registeredName="auditModel.generator.personFullName" />
+	</DataGenerators>
+	
+	<PathMappings>
+        <PathMap source="/alfresco-access" target="/share-site-access"/>
+    </PathMappings>
+
+    <Application name="ShareSiteAccess" key="share-site-access">
+        <RecordValue key="access" dataExtractor="simpleValue" dataSource="/share-site-access/transaction/action"
+                     dataTrigger="/share-site-access/transaction/action"/>
+        <RecordValue key="nodepath" dataExtractor="simpleValue" dataSource="/share-site-access/transaction/path"
+                     dataTrigger="/share-site-access/transaction/path"/>
+        <RecordValue key="nodename" dataExtractor="nodeName" dataSource="/share-site-access/transaction/node"
+                     dataTrigger="/share-site-access/transaction/node"/>
+        <RecordValue key="nodetype" dataExtractor="nodeType" dataSource="/share-site-access/transaction/node"
+                     dataTrigger="/share-site-access/transaction/node"/>
+        <RecordValue key="site" dataExtractor="siteName" dataSource="/share-site-access/transaction/path"
+                     dataTrigger="/share-site-access/transaction/path"/>
+                     
+		<!--  <RecordValue key="access" dataExtractor="simpleValue"
+			dataSource="/siteaccess/transaction/action" dataTrigger="/siteaccess/transaction/action" />
+		<RecordValue key="user" dataExtractor="simpleValue"
+			dataSource="/siteaccess/transaction/user" dataTrigger="/siteaccess/transaction/user" />
+		<RecordValue key="path" dataExtractor="simpleValue"
+			dataSource="/siteaccess/transaction/path" dataTrigger="/siteaccess/transaction/path" />
+		<RecordValue key="site" dataExtractor="siteName"
+			dataSource="/siteaccess/transaction/path" dataTrigger="/siteaccess/transaction/path" />
+			 -->
+		<!-- <AuditPath key="transaction">
+          <RecordValue key="node" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/node" dataTrigger="/ocAudit/transaction/node" />  
+          <RecordValue key="action" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/action" dataTrigger="/ocAudit/transaction/action" />
+          <RecordValue key="sub-actions" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/sub-actions" dataTrigger="/ocAudit/transaction/sub-actions" />
+          <RecordValue key="user" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/user" dataTrigger="/ocAudit/transaction/user" />
+
+          <RecordValue key="path" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/path" dataTrigger="/ocAudit/transaction/path" />
+          <RecordValue key="type" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/type" dataTrigger="/ocAudit/transaction/type" />
+          <RecordValue key="version" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/cm:versionLabel" dataTrigger="/ocAudit/transaction/cm:versionLabel" />
+
+          <AuditPath key="copy">
+              <AuditPath key="from">
+                  <RecordValue key="path" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/copy/from/path" dataTrigger="/ocAudit/transaction/copy/from/path" />
+              </AuditPath>
+          </AuditPath>
+
+          <AuditPath key="move">
+              <AuditPath key="from">
+                  <RecordValue key="path" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/move/from/path" dataTrigger="/ocAudit/transaction/move/from/path" />
+              </AuditPath>
+          </AuditPath>
+
+          <AuditPath key="properties">
+              <RecordValue key="fromName" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/properties/from/name" dataTrigger="/ocAudit/transaction/properties/from/name" />
+              <RecordValue key="toName" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/properties/to/name" dataTrigger="/ocAudit/transaction/properties/to/name" />
+              <RecordValue key="from" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/properties/from" dataTrigger="/ocAudit/transaction/properties/from" />
+              <RecordValue key="to" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/properties/to" dataTrigger="/ocAudit/transaction/properties/to" />
+              <RecordValue key="add" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/properties/add" dataTrigger="/ocAudit/transaction/properties/add" />
+              <RecordValue key="delete" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/properties/delete" dataTrigger="/ocAudit/transaction/properties/delete" />
+          </AuditPath>
+
+          <AuditPath key="aspects">
+              <RecordValue key="add" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/aspects/add" dataTrigger="/ocAudit/transaction/aspects/add" />
+              <RecordValue key="delete" dataExtractor="simpleValue" dataSource="/ocAudit/transaction/aspects/delete" dataTrigger="/ocAudit/transaction/aspects/delete" />
+          </AuditPath>
+      </AuditPath>
+			 -->
+			
+	</Application>
+</Audit>

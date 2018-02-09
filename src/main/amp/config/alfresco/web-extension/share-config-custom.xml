@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<share-config> <!-- Add a custom page type -->
+	<config evaluator="string-compare" condition="SitePages"
+		replace="true">
+		<pages>
+			<page id="calendar">calendar</page>
+			<page id="wiki-page">wiki-page?title=Main_Page</page>
+			<page id="documentlibrary">documentlibrary</page>
+			<page id="discussions-topiclist">discussions-topiclist</page>
+			<page id="blog-postlist">blog-postlist</page>
+			<page id="links">links</page>
+			<page id="tasks">tasks</page>
+			<page id="home">home</page>
+		</pages>
+	</config>
+
+
+	<!-- Document Library config section -->
+	<config evaluator="string-compare" condition="DocumentLibrary">
+		<aspects>
+			<visible>
+				<!-- <aspect name="kb:status" /> <aspect name="kb:article" /> -->
+				<!-- <aspect name="sc:webable" /> <aspect name="sc:productRelated" /> 
+					<aspect name="cm:attachable"/> -->
+			</visible>
+			<addable>
+			</addable>
+			<removeable>
+			</removeable>
+		</aspects>
+<!--  
+	 	 <types>
+			<type name="cm:folder">
+				<subtype name="my:folder"/>
+				<subtype name="my:folder1"/>
+			</type>
+		</types>	 --> 
+	</config>
+		<config evaluator="model-type" condition="cm:content">
+	
+	<create-content>
+	<!--	<content id="acme-plain-text" label="Create an Acme Text Document" icon="text" type="pagelink"/>  -->
+		</create-content> 
+	</config>
+
+</share-config>
